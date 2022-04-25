@@ -1,0 +1,11 @@
+{
+	"name": "lime-cffi",
+	"url": "https://github.com/native-toolkit/lime-cffi",
+	"license": "MIT",
+	"tags": [],
+	"description": "Provides native CFFI functionality for Lime",
+	"version": "8.0.0",
+	"releasenote": "",
+	"contributors": [ "singmajesty" ],
+	"classPath": "src"
+}
